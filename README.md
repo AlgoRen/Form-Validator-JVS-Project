@@ -1,0 +1,2 @@
+# Form-Validator-JVS-Project-
+(JVS Project) Just going from the very basics to more sophisticated projects using Vanilla JS. May possibly come back to projects and refactor them with frameworks I find appropriate. All things considered the JVS project will just be me experimenting and executing various techniques in creating projects so I have a better understanding of how to get from point A to B. Seeing scenarios is everything... Just like in competitive gaming, lul. Checkout my Twitch @ www.twitch.tv/igrnce 
